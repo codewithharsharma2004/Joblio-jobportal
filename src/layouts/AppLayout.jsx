@@ -17,7 +17,7 @@ Discover job opportunities, track your applications, and connect with top employ
 <h1>© 2025 Joblio. All rights reserved.</h1>
 
 <p>Contact us:</p>
-  <a href="mailto:h5673610@gmail.com" className="text-blue-400 hover:underline">
+  <a href="mailto:h56736160@gmail.com" className="text-blue-400 hover:underline">
     📧 h56736160@gmail.com
   </a>
 
