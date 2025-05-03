@@ -12,7 +12,7 @@ const Header = () => {
   const {user} =useUser();
 
   useEffect(()=>{
-    if(search.get('sign.in')){
+    if(search.get('sign-in')){
       setShowSignIn(true)
     }
   }, [search]);
